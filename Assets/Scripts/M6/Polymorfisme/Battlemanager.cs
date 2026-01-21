@@ -13,7 +13,7 @@ public class BattleManager : MonoBehaviour
             new GameObject().AddComponent<Zombie>(),
             new GameObject().AddComponent<Goblin>(),
             new GameObject().AddComponent<Dragon>(),
-            new GameObject().AddComponent<Diddy>()
+            new GameObject().AddComponent<Toeter>()
         };
     }
 
