@@ -97,7 +97,7 @@ public bool IsPlayerReadyToAttack(Player player)
 
 ## Opdracht 6 / Polymorfisme
 
-![asdna](https://github.com/user-attachments/assets/674360de-efa7-4679-a9ff-07db39155d6c)
+![asdna](https://github.com/CracksEvry/M6_PROG_CS/blob/main/GIFS%20ETC/Opdracht6%20Pholomon.gif)
 
 
 
