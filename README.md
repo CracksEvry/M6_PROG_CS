@@ -47,7 +47,7 @@ Bullet --> Enemy : interacts with
 ![ezgif-75d548983100605b](https://github.com/user-attachments/assets/94446952-1f43-45df-9127-c695027c6842)
 
 
-[Delgates](https://github.com/CracksEvry/M6_PROG_CS/tree/main/Assets/Scripts/M6/Delegates)
+[Script/Code](https://github.com/CracksEvry/M6_PROG_CS/tree/main/Assets/Scripts/M6/Delegates)
 
 ```Charp
 public bool IsPlayerReadyToAttack(Player player)
